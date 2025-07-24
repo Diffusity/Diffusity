@@ -2,7 +2,7 @@
 
 💻 Passionate Android Appliation Developer | Tech Explorer  
 🚀 Building full-stack appilcations and backend services  
-📍 Based in Surat, India | 🎓 MSc IT ' 27 @ DAIICT
+🎓 MSc IT ' 27 @ DAIICT
 
 --
 
