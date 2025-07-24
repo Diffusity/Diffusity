@@ -41,7 +41,7 @@
 - Developed a mini offline game project  
 - Gained practical experience in debugging and logical development
 
----
+--
 
 ## 📫 Connect with Me
 
