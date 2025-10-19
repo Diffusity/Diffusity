@@ -48,3 +48,12 @@
 - ✉️ Email: [diffusity@gmail.com](mailto:diffusity@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/parth-maharaja](https://linkedin.com/in/parth-maharaja)  
 - 💻 GitHub: [github.com/Diffusity](https://github.com/Diffusity)
+
+--
+
+![](https://github-readme-stats.vercel.app/api?username=Diffusity&theme=transparent&hide_border=false&include_all_commits=true&count_private=true) <span style="padding-left: 20px;">
+![](https://nirzak-streak-stats.vercel.app/?user=Diffusity&theme=transparent&hide_border=false)<br/>
+
+--
+
+[![](https://visitcount.itsvg.in/api?id=Diffusity&icon=0&color=0)](https://visitcount.itsvg.in)
