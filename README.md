@@ -51,8 +51,7 @@
 
 --
 
-![](https://github-readme-stats.vercel.app/api?username=Diffusity&theme=transparent&hide_border=false&include_all_commits=true&count_private=true) <span style="padding-left: 20px;">
-![](https://nirzak-streak-stats.vercel.app/?user=Diffusity&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Diffusity&theme=transparent&hide_border=false&include_all_commits=true&count_private=true) 
 
 --
 
